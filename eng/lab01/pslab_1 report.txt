@@ -1,0 +1,35 @@
+1.Search for your first and last name on Google
+
+I have searched my first name and last name i was  unable to find any details about me only i was able to find people who are in kerala as well as outside india with my first name and last name.
+
+2.Check any public profiles (Facebook, LinkedIn, Instagram, forums).
+
+I have checked my name in social media but i was only ablw to find about me in linked in with picture apart from this i was unable to find any details in social media.
+
+3.Use exposure checking tools (HaveIBeenPwned, OSINTLeak)
+
+ Have I been pwned 
+No data was found with my mail id.
+
+ OSINTLeak
+My mobile number was exposed in OSINLeak apart from this no other data was found.
+
+
+Result and Analysis
+
+1.Write a short report on what data you found.
+
+The data which was found was linked in account with my details like picture and my name.While checking OSINT Leak my phone number is leaked .Thease were the information which was found about me.
+
+2.What potential risk does it pose?
+
+The potential risk is it can use my picture from linked in and use to scam other people like phisihing other threats.The mobile number can be used for creating account or any other attcks which can cause issue.
+
+3.Write a worst-case scenario example of how someone could benefit from this data in the event of personal exposure.
+
+A worst-case can be they can use my picture and as well as phone number to attck my friends and loot their money or may be taking some confidential from my friends.
+
+4.How would you rate your personal security/privacy?
+
+I would rate my personal security 3 out of 5.
+

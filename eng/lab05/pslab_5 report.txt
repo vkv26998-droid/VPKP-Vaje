@@ -1,0 +1,30 @@
+1. Record which passwords were found and how quickly.
+
+During the testing process, three passwords were successfully  identified using John and they are:
+     1) letmein    (user4)
+     2) qwerty123  (user2)
+     3) Password1  (user1)
+These passwords were easily detected because these data's are easily find and common password and it is also found in rock you.txt
+     
+2. Which strong password did the program not find? Why? 
+
+John failed to identify the password My$Strong&Pass2024 and Summer2024 as these passwords were not found int the two text file and also password My$Strong&Pass2024  is a complex password and cannot be tracked by the system so easily.
+
+Reflection and analysis
+
+1. How does the security score increase as you increase the length?   
+
+   Upon testing in bitwarden password tester a 8 charecter password can be cracked within few seconds while 24 charecter may take centuries to crack.
+
+2. How do special characters affect the score?
+
+   Adding a single special charecter will make changes and make the password more time to crack while add more than 2 special charecters it took more than 2 years.So adding special charecter can make more time to crack the password.
+
+3. How is a “passphrase” scored compared to a classic password?
+
+   When comparing passphrase and clasic password The classic password is very easy to crack and also guess while passphrase cannot be guess as it contains more length and it takes more than years to crack.
+
+4. Which password would you recommend for everyday use and why?
+
+   For everyday use i would suggest  password which is a passphrase and long so that which can be remember and also very had to crack.
+   

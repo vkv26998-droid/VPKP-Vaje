@@ -1,0 +1,34 @@
+1. What is the actual IP of the sender?
+
+   The originating client is 62.60.129.1
+
+2. Does the sender domain match the “From” address?
+
+    Yes, the both sender domainan  "From" address are hanise.com, However, the Reply-To is a completely different domain "valver.eu" and I checked domain name which showing directory listing.
+
+   
+3. What country does the message roughly originate from?
+
+   The source IP 62.60.129.1 repoerted the location  United Kingdom by IP location Finder.
+
+4. Are there any signs of redirection through multiple servers in the header?
+
+  The hop list clearly shows multiple IP and In email header showing more than 2 IP redirection
+
+5. Are there SPF/DKIM/DMARC errors?
+   SPF error 
+   DKIM signature error
+
+
+Reflection and analysis
+
+
+1. How quickly do you notice the suspiciousness of a phishing message?
+   
+   The email is suspicious because it creates urgency with the subject “VERY URGENT”, uses a misleading sender domain, has a different reply-to address, appears in online reports as malicious, and follows an advance-fee scam pattern by asking for help distributing money or donations.
+2. Would you recognize this message as dangerous without the header?
+   
+   Yes, even without headers, this message shows multiple social engineering red flags such as an exaggerated urgent subject, a donation message.The message  message would be considered dangerous even before examining technical metadata.
+
+3. What advice would you give to someone who is new to email regarding the dangers lurking in terms of social engineering?
+   I would advise them to be cautious before opening any attachments, clicking links, or replying to the email. First, carefully read the message and check the email header to confirm the sender and reply-to address are legitimate. Be alert to urgent or emotional language, requests for money, or personal information. If anything seems suspicious, do not respond directly—verify the message through a trusted source. Less experienced users should ask a trusted friend, family member, or IT support for help and perform basic header and URL checks.

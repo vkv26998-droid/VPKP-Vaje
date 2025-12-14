@@ -1,0 +1,27 @@
+Analysis and Report
+Answer the following questions:
+
+What was the exact location (coordinates and address)?
+The exact geo location was shown in information where the image was taken we have tried to get the data of a live photo and we got correct information.
+
+When was the image taken?
+The image was taken on 16th november 2025.
+
+What other metadata did you notice?
+The other metadata found was about the device which is used to take the pic, the camera lens details ,battery percentage ,the time when image was taken and if it is modified
+
+What surprised you?
+It provided information like which device is used the model and which company ,focus length ,location details and quality od the image.
+
+What would you recommend to someone who regularly posts images online?
+I would recommend to reduce the usage of posting image online as this contains many information which we are not aware about.
+
+Reflection
+Should everyone remove EXIF ​​data before posting an image?
+It is best to use remove EXIF data before posting the image it will remove many unwanted information which are available and keep the privacy of the person.
+
+How can we protect ourselves from the misuse of such information?
+We can use Exif remove or verexif remove the data from picture and this images will be protected.
+
+Have you ever posted an image that contained such metadata? What would your reaction be today?
+Yes, i have posted the image which contain metadata .My rection would be i would never upload the images online before removing the metadata from image.

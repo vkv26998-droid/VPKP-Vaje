@@ -1,0 +1,21 @@
+1.Compare the results of Sherlock and Maigret. What differences did you notice?
+
+When i check the sherlock the number of result will be depend on different username and it will provide the links where as maigret will provide  more details with detail information and with total 500 results for every username.Maigret provide more details compare to sherlock.
+
+2.Did you find any sensitive information (e.g. email address, private pictures, phone number)? How could the person protect it from being publicly available?
+
+I found some sensitive information like mail id and phonenumber which can cause a huge issue in future. Person can protect the data  by giving the persmisson which are only need and also reduce the usage of unwanted applications.
+
+
+Result and Analysis
+1)What information was the easiest to find? What was the hardest to find?
+
+Easiest information was to find was the email id and the hardest to find was the location and phone number.
+
+2)How would you adjust your own online behavior after doing this exercise?
+
+I would reduce the online application which are not secured as thes platforms are providing data to other platforms and also reduce to share personal number in any application and also check the permission of application only allow which are needed.
+
+3)Do you think the use of OSINT tools is ethically questionable? In which cases is it justified?
+
+I think usage of OSINT tools can be queistonable as it can be used by any person even by hackers so it provide huge risk for the people as it provide many information of user.I think it can be justified ,if these kind of application can be only used by the government sector with authentication.

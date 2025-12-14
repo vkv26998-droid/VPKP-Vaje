@@ -1,0 +1,15 @@
+1)How would you explain the difference between an unencrypted (e.g. SMTP without TLS on port 1025) and an encrypted message (SMTP with STARTTLS on port 587)? What data can an attacker see in the first case and what in the second?
+
+When we checked the the unencrypted in wireshark tool on port 1025 we were able to see the message and were able to read it  while checking on the encryped message  on port 587 it was containg different language with some special charecters,digitand letters and which was readable but not understandable.
+
+2)Why is fingerprinting in PGP to prevent man-in-the-middle attacks?
+
+Fingerprinting in PGP helps prevent man-in-the-middle attacks by verifying the authenticity of a public key. A fingerprint is a unique hash of the key. By confirming this fingerprint through a trusted channel, users ensure the key has not been replaced by an attacker, preventing interception or decryption of encrypted messages.
+
+3)When would you use PGP and when would you use Signal?
+
+PGP is mostly used for sharing the files and documents in encrypted methods while signal is used as messageing application where all the data's like voice call,videocall and file transfer are encrypted.
+
+4)Do you think end-to-end encryption should be the default in all communication applications? Justify your answer from the perspective of security, privacy, and user experience.
+
+I think end-end encryption should be default on all communication application as it contains various kind of data and it should be protected from other threats and also it provides a trust to the application for safeguarding the privacy as it is not available and kept it as a secret and it provide a good user experience.

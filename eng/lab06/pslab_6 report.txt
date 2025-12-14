@@ -1,0 +1,28 @@
+1) Why is TOTP more secure than SMS?
+
+TOTP is more encrypted to SMS and one time password will be always safe in the application whereas SMS is not encrypted.
+ 
+2)What happens if you lose access to Bitwarden Authenticator?
+
+If we lose the password of Bitwarden it will be not possible to login if we are using 2FA method.If we are not using this method then access will be lost .
+ 
+3)Do all services support TOTP? Why or why not?
+
+I think its yes most of the application use 2 methods for login either through password or multifactor authentication.
+
+Reflection and analysis
+1)How does the security score increase as you add length?
+
+Yes, Using pwscore the security score increased if the length of the password is increased.
+
+2)How do special characters affect the score?
+
+If we add special charecter to th password score will be changed and it is more increased compare to the normal password.
+
+3)How does a “passphrase” score compare to a classic password?
+
+When checking the pwscore of passphrase is very high compare to the classic password.Classic password provides a score between 35-70 whereas passphrase scores more than that.
+
+4) Which password would you recommend for everyday use and why?
+
+I would choose passphrase because it is more secure and not able to guess by the attacker and also easy to rememeber by the user.
